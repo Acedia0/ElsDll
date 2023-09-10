@@ -8,12 +8,16 @@ Tutorial on injecting .lua scripts into Elsrift x64 :
 2) Build the project to obtain the .dll to be injected
 
 3) Convert the .lua script you want to run into LuaJit 2.1.0-beta3 x64 bytecode
-	a. You can do this with the following tool: https://github.com/ScriptTiger/LuaJIT-For-Windows\n
-	b. Rename your .lua script to Script.lua and place it in the same folder as LuaJIT-For-Windows.cmd\n
-	c. Run LuaJIT-For-Windows.cmd with the following command: luajit -b Script.lua Script.out\n
+   
+	a. You can do this with the following tool: https://github.com/ScriptTiger/LuaJIT-For-Windows
+
+	b. Rename your .lua script to Script.lua and place it in the same folder as LuaJIT-For-Windows.cmd
+
+	c. Run LuaJIT-For-Windows.cmd with the following command: luajit -b Script.lua Script.out
+
 	d. Move the Script.out file to the same folder as x2.exe.\n
 
-4) Inject the .dll when x2.exe starts up using your favourite injector.
+5) Inject the .dll when x2.exe starts up using your favourite injector.
 
    Warning: You will have to bypass anticheats with your own methods.
 
