@@ -14,7 +14,7 @@ Tutorial on injecting .lua scripts into Elsrift x64 :
 	d. Move the Script.out file to the same folder as x2.exe.
 
 4) Inject the .dll when x2.exe starts up using your favourite injector.
-Warning: You will have to bypass anticheats with your own methods.
+   Warning: You will have to bypass anticheats with your own methods.
 
 Good luck!
 
