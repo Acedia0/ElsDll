@@ -24,5 +24,3 @@ Here are a few links to help you understand how it works:
 - https://nickcano.com/hooking-luajit/
 - http://kylehalladay.com/blog/2020/11/13/Hooking-By-Example.html
 - https://www.youtube.com/watch?v=qEbPCIFtyOs
-
-Translated with www.DeepL.com/Translator (free version)
